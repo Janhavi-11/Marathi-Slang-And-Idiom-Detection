@@ -23,9 +23,20 @@ An **interactive web app** built with **Streamlit** that detects and categorizes
 
 ---
 
-## 🚀 Get Started
+## 📷 App Preview
 
-1. Clone the repo  
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
+**Evaluation Metrics of Marathi Slang and Idiom Detection System**
+<br><br>
+![Detected Slang](screenshots/Image_1.png)
+<br><br>
+![Detected Slang 2](screenshots/Image_2.png)
+<br><br>
+**Marathi Slang and Idiom Detection System**
+<br><br>
+![Detected Slang_3](screenshots/Image_3.png)
+<br><br>
+![Detected Slang 4](screenshots/Image_4.png)
+<br><br>
+![Detected Slang 5](screenshots/Image_5.png)
+<br><br>
+![Detected Slang 6](screenshots/Image_6.png)
